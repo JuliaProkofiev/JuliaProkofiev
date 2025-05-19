@@ -59,7 +59,7 @@ A tool that helps developers maintain code quality by automatically detecting co
 
 <div align="center">
   
-  ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+  ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=JuliaProkofiev&show_icons=true&theme=radical)
   
 </div>
 
@@ -67,7 +67,7 @@ A tool that helps developers maintain code quality by automatically detecting co
 
 <div align="center">
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaProkofiev&layout=compact&theme=radical)
   
 </div>
 
@@ -75,12 +75,12 @@ A tool that helps developers maintain code quality by automatically detecting co
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/JuliaProkofiev)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juliap.prokofiev@outlook.com)
   [![Portfolio](https://img.shields.io/badge/Portfolio-1E88E5?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
   
 </div>
 
 ---
 
-⭐️ From [yourusername](https://github.com/yourusername)
+⭐️ From [JuliaProkofiev](https://github.com/JuliaProkofiev)
