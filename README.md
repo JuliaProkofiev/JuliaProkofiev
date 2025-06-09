@@ -39,10 +39,10 @@ I'm a passionate Fullstack Software Developer with over 2 years of experience bu
 ## 👨‍💻 Professional Experience
 
 **SOFTWARE DEVELOPER** | Vipseg Brasil | Mar/2024 – Present
-* Developed and maintained scalable, high-performance solutions in a collaborative environment.
 * Actively engaged in **project management, leadership, and decision-making**, contributing to strategic direction.
-* Designed and optimized **backend services with Python (Django) and Java (Spring Boot)**, integrating with SQL/NoSQL databases.
-* **Single-handedly developed a Python project that boosted lead capture to 2,000 leads/day**, handling high data volumes and 10 simultaneous queries using **Docker (Redis, Nginx), Python, Django, and PostgreSQL.**
+* **Integrated advanced AI agents**, developed by lead programmers, into both backend and frontend systems. These integrations are **re-structuring core business processes, automating tasks, and significantly enhancing fraud protection.**
+* **Single-handedly developed a Python project that boosted lead capture to 2,000 leads/day**, handling high data volumes and 10 simultaneous queries using **Docker (Redis, Nginx), Python, Django, Celery and PostgreSQL.**
+
 
 **JUNIOR AUTOMATION SYSTEM ANALYST** | Grupo AIZ/PESA | Mar/2023 – Jan/2024
 * Developed **control logic (PLC/CodeSys) and embedded software (C/C++)** for industrial automation.
@@ -60,17 +60,6 @@ I'm a passionate Fullstack Software Developer with over 2 years of experience bu
 ## 🏆 Projects & Hackathons
 
 * **3rd Place at #Hackatop DeMKT**: Led the conception and development of a functional MVP during a 40-hour marathon, showcasing innovation and teamwork under pressure.
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JuliaProkofiev&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuliaProkofiev&layout=compact&hide_title=true&theme=radical)
-  
-</div>
 
 ---
 
