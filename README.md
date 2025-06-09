@@ -59,7 +59,7 @@ I'm a passionate Fullstack Software Developer with over 2 years of experience bu
 
 ## 🏆 Projects & Hackathons
 
-* **3rd Place at #Hackatop DeMKT**: Led the conception and development of a functional MVP during a 40-hour marathon, showcasing innovation and teamwork under pressure.
+* **3rd Place at #HackatopDeMKT (40-hour Hackathon):** **Led the conception and development of "Pedro - Technological Assistant for the Elderly," an MVP focused on bridging the digital gap for senior citizens.** Presented the solution to major technology companies. Demonstrated proficiency in **conceptualizing software architecture, outlining implementation strategies, and defining project management frameworks** for a complete solution.
 
 ---
 
