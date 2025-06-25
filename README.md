@@ -1,6 +1,6 @@
 # Hi there, I'm Julia Prokofiev 👋
 
-## 🚀 Software Engineer | Backend & Distributed Systems | Python, Java, AWS, Docker | Building Scalable & Automated Solutions | AI/ML Interest
+## 🚀 Backend Engineer | Leading Scalable Architecture | Python, Java, Cloud, Microservices | Driving Efficiency & Innovation | AI/ML Interest
 
 I'm a **results-driven Backend Software Engineer** with 3 years of experience in **designing, deploying, and scaling robust distributed systems**. My passion lies in **transforming complex challenges into efficient, automated solutions** that drive significant business impact. I thrive in dynamic, collaborative environments and am adept at **leading technical initiatives** from concept to deployment. Fluent in **English (C1)**, I am actively seeking challenging international roles to innovate and contribute to high-impact product delivery.
 
