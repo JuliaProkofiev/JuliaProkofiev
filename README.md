@@ -1,6 +1,6 @@
 # Hi there, I'm Julia Prokofiev 👋
 
-## 🚀 Backend Software Engineer | Scalability & Automation Expert | AI Enthusiast
+## 🚀 Software Engineer | Backend & Distributed Systems | Python, Java, AWS, Docker | Building Scalable & Automated Solutions | AI/ML Interest
 
 I'm a **results-driven Backend Software Engineer** with 3 years of experience in **designing, deploying, and scaling robust distributed systems**. My passion lies in **transforming complex challenges into efficient, automated solutions** that drive significant business impact. I thrive in dynamic, collaborative environments and am adept at **leading technical initiatives** from concept to deployment. Fluent in **English (C1)**, I am actively seeking challenging international roles to innovate and contribute to high-impact product delivery.
 
@@ -52,18 +52,18 @@ I'm a **results-driven Backend Software Engineer** with 3 years of experience in
 
 Here's a snapshot of my contributions, showcasing my leadership in delivering high-impact solutions:
 
-### **Software Developer (Pleno) @ VipSeg** | *[Start Date] – Present*
+### **Software Developer (Mid) @ VipSeg** | *[03-2025] – Present*
 * **Led the full lifecycle development** of a high-volume **Python/Django/FastAPI** lead generation platform, scaling it from MVP to enterprise solution.
 * **Engineered robust backend solutions** for **2,000+ daily leads** and **11 concurrent users**, optimizing for high concurrency with **Celery workers** and pipeline processing.
 * **Championed a strategic architectural shift**, leading an in-house CRM project projected to **save >$100K annually** by replacing third-party platforms.
 * **Guided the refactoring and integration of AI/ML models** (using Pandas) into the backend, driving fraud detection and operational optimization.
 
-### **Embedded Systems Analyst @ Pesa Rental / Grupo AIZ** | *[Start Date] – [End Date]*
+### **Embedded Systems Analyst @ Pesa Rental / Grupo AIZ** | *[03-2023] – [01-2024]*
 * **Rapidly acquired expertise in embedded systems**, programming **PLCs, PICs, and ESP32s** (C, Python, CodeSys) and mastering complex **CAN bus integrations** for industrial applications.
 * **Contributed to pioneering autonomous heavy machinery** for high-risk environments, significantly **reducing human exposure** (e.g., Brumadinho disaster recovery efforts).
 * **Supported multi-million dollar national engineering milestones**, including a **pioneering electric bus** and documentation for Brazil's **largest electric truck (120T)**.
 
-### **FullStack Development Intern @ Dixi Ponto** | *[Start Date] – [End Date]*
+### **FullStack Development Intern @ Dixi Ponto** | *[05-2022] – [02-2023]*
 * **Developed core full-stack components** for an **in-house SaaS system** (Java/Flutter/Dart/MySQL), which generated **significant cost savings** and established a customizable product.
 * **Engineered robust offline capabilities** for the mobile app, ensuring **business continuity and data integrity** (geolocation/timestamping even without internet).
 * **Accelerated personal technical growth** by independently mastering complex tasks typically assigned to junior/mid-level roles in a high-pressure startup.
@@ -80,8 +80,8 @@ Here's a snapshot of my contributions, showcasing my leadership in delivering hi
 ## 🌱 **Continuous Learning & Future Interests**
 
 I'm consistently expanding my technical horizons, currently deepening my understanding in:
-* **Artificial Intelligence (AI) & Machine Learning (ML)**: Exploring advanced algorithms and their practical applications in backend systems.
 * **Cybersecurity Fundamentals**: Enhancing expertise in secure coding practices and defense mechanisms to build more resilient applications.
+* **Artificial Intelligence (AI) & Machine Learning (ML)**: Exploring advanced algorithms and their practical applications in backend systems.
 * **Advanced Cloud Architectures**: Diving deeper into scalable, fault-tolerant designs on **AWS** and exploring **Kubernetes** orchestration for enterprise solutions.
 
 ---
@@ -90,7 +90,7 @@ I'm consistently expanding my technical horizons, currently deepening my underst
 
 Feel free to reach out to discuss new opportunities, collaborations, or innovative tech ideas.
 
-* **Email**: [julia.prokofiev@outlook.com](mailto:julia.prokofiev@outlook.com)
+* **Email**: [jpprokofiev@gmail.com](mailto:jpprokofiev@gmail.com)
 * **LinkedIn**: [linkedin.com/in/juliaprokofiev](https://www.linkedin.com/in/juliaprokofiev)
 
 ---
